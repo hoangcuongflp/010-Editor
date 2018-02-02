@@ -1,4 +1,5 @@
-# 010-Editor
+# 010 Editor v8.0.1 Windows & MacOS
+
 
 source: http://qtfreet.com/?p=351
 
